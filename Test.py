@@ -1,0 +1,6 @@
+print("what is your name")
+my_name =input()
+print("How old are you")
+my_age =input()
+print("My name is ",my_name)
+print(my_age,"year old") 
